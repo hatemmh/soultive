@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Menu, X } from "lucide-react";
+import soultiveLogo from "@assets/Screenshot_2025-01-02_at_01.37.05-ai-brush-removebg-6934gv69.png";
 
 export default function Navigation() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -18,7 +19,12 @@ export default function Navigation() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
-            <div className="flex-shrink-0">
+            <div className="flex-shrink-0 flex items-center">
+              <img 
+                src={soultiveLogo} 
+                alt="Soultive" 
+                className="h-10 w-auto mr-3"
+              />
               <h1 className="text-2xl font-bold text-primary">Soultive</h1>
             </div>
           </div>

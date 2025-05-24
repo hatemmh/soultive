@@ -15,16 +15,22 @@
   --card-foreground: 222 84% 5%;
   --border: 214 32% 91%;
   --input: 214 32% 91%;
-  --primary: 207 90% 54%;
-  --primary-foreground: 211 100% 99%;
+  --primary: 207 91% 59%; /* Soultive blue */
+  --primary-foreground: 0 0% 100%;
   --secondary: 210 40% 98%;
   --secondary-foreground: 222 84% 5%;
-  --accent: 210 40% 98%;
-  --accent-foreground: 222 84% 5%;
+  --accent: 320 85% 60%; /* Soultive pink/magenta */
+  --accent-foreground: 0 0% 100%;
   --destructive: 0 84% 60%;
   --destructive-foreground: 60 9% 98%;
-  --ring: 222 84% 5%;
+  --ring: 207 91% 59%;
   --radius: 0.5rem;
+  
+  /* Custom Soultive brand colors */
+  --soultive-blue: 207 91% 59%;
+  --soultive-pink: 320 85% 60%;
+  --soultive-orange: 32 95% 55%;
+  --soultive-yellow: 50 100% 55%;
 }
 
 .dark {
@@ -66,7 +72,7 @@
 
 @layer utilities {
   .hero-gradient {
-    background: linear-gradient(135deg, #1e40af 0%, #2563eb 50%, #10b981 100%);
+    background: linear-gradient(135deg, hsl(var(--soultive-blue)) 0%, hsl(var(--soultive-pink)) 35%, hsl(var(--soultive-orange)) 70%, hsl(var(--soultive-yellow)) 100%);
   }
   
   .animate-fade-in {

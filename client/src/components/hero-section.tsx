@@ -15,7 +15,7 @@ export default function HeroSection() {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="text-white animate-fade-in">
             <h1 className="text-4xl lg:text-6xl font-bold leading-tight mb-6">
-              Intelligent Software <span className="text-emerald-400">Solutions</span> for Modern Business
+              Intelligent Software <span className="text-yellow-300">Solutions</span> for Modern Business
             </h1>
             <p className="text-xl text-blue-100 mb-8 leading-relaxed">
               We develop cutting-edge AI solutions, process automation, and custom software that transforms how businesses operate and scale.
