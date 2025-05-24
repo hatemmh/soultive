@@ -23,7 +23,7 @@ export default function Navigation() {
               <img 
                 src={soultiveLogo} 
                 alt="Soultive" 
-                className="h-10 w-auto"
+                className="h-14 w-auto"
               />
             </div>
           </div>
@@ -53,12 +53,6 @@ export default function Navigation() {
                 className="text-gray-600 hover:text-primary px-3 py-2 text-sm transition-colors"
               >
                 Solutions
-              </button>
-              <button 
-                onClick={() => scrollToSection('careers')}
-                className="text-gray-600 hover:text-primary px-3 py-2 text-sm transition-colors"
-              >
-                Careers
               </button>
               <Button 
                 onClick={() => scrollToSection('contact')}
@@ -109,12 +103,6 @@ export default function Navigation() {
               className="block px-3 py-2 text-gray-600 hover:text-primary w-full text-left"
             >
               Solutions
-            </button>
-            <button 
-              onClick={() => scrollToSection('careers')}
-              className="block px-3 py-2 text-gray-600 hover:text-primary w-full text-left"
-            >
-              Careers
             </button>
             <Button 
               onClick={() => scrollToSection('contact')}

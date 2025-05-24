@@ -56,6 +56,7 @@ export default function SolutionsSection() {
           </Card>
         </div>
         
+        {/* Case Study section - commented out for now
         <div className="mt-16 grid lg:grid-cols-2 gap-12 items-center">
           <div className="animate-on-scroll">
             <h3 className="text-2xl font-bold text-gray-900 mb-6">
@@ -94,6 +95,7 @@ export default function SolutionsSection() {
             />
           </div>
         </div>
+        */}
       </div>
     </section>
   );
