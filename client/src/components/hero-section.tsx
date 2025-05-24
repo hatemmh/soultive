@@ -43,10 +43,10 @@ export default function HeroSection() {
               alt="Modern office workspace" 
               className="rounded-2xl shadow-2xl w-full"
             />
-            <div className="absolute -top-4 -left-4 bg-emerald-500 text-white p-4 rounded-lg shadow-lg">
+            <div className="absolute -top-4 -left-4 bg-pink-500 text-white p-4 rounded-lg shadow-lg">
               <TrendingUp size={32} />
             </div>
-            <div className="absolute -bottom-4 -right-4 bg-white text-primary p-4 rounded-lg shadow-lg">
+            <div className="absolute -bottom-4 -right-4 bg-orange-400 text-white p-4 rounded-lg shadow-lg">
               <Bot size={32} />
             </div>
           </div>

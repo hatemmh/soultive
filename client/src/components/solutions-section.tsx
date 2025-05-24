@@ -73,13 +73,13 @@ export default function SolutionsSection() {
               </Card>
               <Card>
                 <CardContent className="p-4 text-center">
-                  <div className="text-2xl font-bold text-emerald-600">28%</div>
+                  <div className="text-2xl font-bold text-pink-600">28%</div>
                   <div className="text-sm text-gray-600">Cost Reduction</div>
                 </CardContent>
               </Card>
               <Card>
                 <CardContent className="p-4 text-center">
-                  <div className="text-2xl font-bold text-purple-600">99.2%</div>
+                  <div className="text-2xl font-bold text-orange-600">99.2%</div>
                   <div className="text-sm text-gray-600">Uptime</div>
                 </CardContent>
               </Card>

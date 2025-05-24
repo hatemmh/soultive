@@ -42,8 +42,8 @@ export default function ServicesSection() {
             </ul>
           </div>
           
-          <div className="animate-on-scroll card-hover bg-gradient-to-br from-emerald-500/5 to-emerald-500/10 p-8 rounded-2xl border border-emerald-500/20">
-            <div className="bg-emerald-600 w-14 h-14 rounded-lg flex items-center justify-center mb-6">
+          <div className="animate-on-scroll card-hover bg-gradient-to-br from-pink-500/5 to-pink-500/10 p-8 rounded-2xl border border-pink-500/20">
+            <div className="bg-pink-600 w-14 h-14 rounded-lg flex items-center justify-center mb-6">
               <RotateCcw className="text-white" size={24} />
             </div>
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Process Automation</h3>
@@ -52,26 +52,26 @@ export default function ServicesSection() {
             </p>
             <ul className="space-y-2 text-sm text-gray-600">
               <li className="flex items-center">
-                <Check className="text-emerald-600 mr-2" size={16} />
+                <Check className="text-pink-600 mr-2" size={16} />
                 Workflow Automation
               </li>
               <li className="flex items-center">
-                <Check className="text-emerald-600 mr-2" size={16} />
+                <Check className="text-pink-600 mr-2" size={16} />
                 API Integrations
               </li>
               <li className="flex items-center">
-                <Check className="text-emerald-600 mr-2" size={16} />
+                <Check className="text-pink-600 mr-2" size={16} />
                 Data Processing
               </li>
               <li className="flex items-center">
-                <Check className="text-emerald-600 mr-2" size={16} />
+                <Check className="text-pink-600 mr-2" size={16} />
                 Task Scheduling
               </li>
             </ul>
           </div>
           
-          <div className="animate-on-scroll card-hover bg-gradient-to-br from-purple-500/5 to-purple-500/10 p-8 rounded-2xl border border-purple-500/20">
-            <div className="bg-purple-600 w-14 h-14 rounded-lg flex items-center justify-center mb-6">
+          <div className="animate-on-scroll card-hover bg-gradient-to-br from-orange-500/5 to-orange-500/10 p-8 rounded-2xl border border-orange-500/20">
+            <div className="bg-orange-600 w-14 h-14 rounded-lg flex items-center justify-center mb-6">
               <Laptop className="text-white" size={24} />
             </div>
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Custom Development</h3>
@@ -80,19 +80,19 @@ export default function ServicesSection() {
             </p>
             <ul className="space-y-2 text-sm text-gray-600">
               <li className="flex items-center">
-                <Check className="text-purple-600 mr-2" size={16} />
+                <Check className="text-orange-600 mr-2" size={16} />
                 Web Applications
               </li>
               <li className="flex items-center">
-                <Check className="text-purple-600 mr-2" size={16} />
+                <Check className="text-orange-600 mr-2" size={16} />
                 Mobile Apps
               </li>
               <li className="flex items-center">
-                <Check className="text-purple-600 mr-2" size={16} />
+                <Check className="text-orange-600 mr-2" size={16} />
                 Enterprise Software
               </li>
               <li className="flex items-center">
-                <Check className="text-purple-600 mr-2" size={16} />
+                <Check className="text-orange-600 mr-2" size={16} />
                 Cloud Solutions
               </li>
             </ul>
