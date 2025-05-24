@@ -1,0 +1,79 @@
+Product Requirements Document (PRD)
+
+
+
+
+Project: Soultive Website
+
+
+
+1. Purpose
+
+
+
+
+Create a professional, modern, and responsive website for Soultive, a software company specializing in developing intelligent and efficient solutions. The website will serve as the primary digital presence, attract potential clients, build trust, and showcase capabilities.
+
+
+
+
+2. Goals & Objectives
+
+
+
+
+Establish an online presence for the Soultive brand.
+Clearly communicate Soultive’s services, expertise, and value proposition.
+Generate leads through contact forms and CTA (Call to Action) placements.
+Enable easy navigation with a mobile-first, responsive design.
+Lay the foundation for future content (blog, case studies, etc.).
+3. Target Audience
+
+
+
+
+Startups and SMEs seeking intelligent software solutions.
+Enterprise clients looking to optimize operations.
+Tech partners and collaborators.
+Talent interested in joining Soultive.
+4. Features & Requirements
+
+
+
+
+4.1. Pages
+Page	Description
+Home	Overview of company, tagline, value proposition, and CTA.
+About Us	Mission, vision, team intro, and company story.
+Services	Description of main services (e.g., AI Solutions, Process Automation, Custom Software Development, etc.).
+Solutions (optional)	Use-case examples or industries served (e.g., logistics, fintech, healthtech).
+Portfolio / Case Studies	Showcase past work (optional for v1).
+Careers	List of open roles (can integrate with Notion, Lever, etc. later).
+Contact	Contact form, location (if applicable), and social links.
+4.2. Functionality
+Responsive design (desktop, tablet, mobile).
+Clear navigation (header + footer).
+Smooth scrolling & animations.
+Lead generation form (email, message, etc.).
+SEO-friendly structure.
+Fast loading performance.
+Basic analytics integration (e.g., Google Analytics).
+4.3. Design Requirements
+Modern, clean UI with a tech-forward feel.
+Branding colors consistent with Soultive’s identity (if undefined, suggest cool tones: blue, indigo, or emerald with dark accents).
+Logo (temporary placeholder if final not ready).
+High-quality icons and illustrations.
+Use of whitespace and grid layout.
+6. Success Metrics
+
+Website load time under 2s.
+Bounce rate under 50%.
+At least 5 qualified leads/month (track via form submissions).
+Organic traffic growth over time.
+7. Optional Future Enhancements
+
+Blog or Insights section
+Client dashboard or support portal
+Live chat or chatbot integration
+Newsletter subscription
+Case study videos or product demos
