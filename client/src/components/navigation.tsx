@@ -23,9 +23,8 @@ export default function Navigation() {
               <img 
                 src={soultiveLogo} 
                 alt="Soultive" 
-                className="h-10 w-auto mr-3"
+                className="h-10 w-auto"
               />
-              <h1 className="text-2xl font-bold text-primary">Soultive</h1>
             </div>
           </div>
           
