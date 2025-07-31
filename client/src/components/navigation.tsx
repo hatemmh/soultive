@@ -24,6 +24,7 @@ export default function Navigation() {
                 src={soultiveLogo} 
                 alt="Soultive" 
                 className="h-14 w-auto"
+                onClick={() => scrollToSection('home')}
               />
             </div>
           </div>

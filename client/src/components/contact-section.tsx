@@ -156,7 +156,7 @@ export default function ContactSection() {
                     <Mail className="text-primary mt-1 mr-4" size={20} />
                     <div>
                       <h4 className="font-medium text-gray-900">Email</h4>
-                      <p className="text-gray-600">hello@soultive.com</p>
+                      <p className="text-gray-600">info@soultive.com</p>
                     </div>
                   </div>
                   
@@ -164,7 +164,7 @@ export default function ContactSection() {
                     <Phone className="text-primary mt-1 mr-4" size={20} />
                     <div>
                       <h4 className="font-medium text-gray-900">Phone</h4>
-                      <p className="text-gray-600">+1 (555) 123-4567</p>
+                      <p className="text-gray-600">+963 93 825-3778</p>
                     </div>
                   </div>
                   
@@ -173,8 +173,7 @@ export default function ContactSection() {
                     <div>
                       <h4 className="font-medium text-gray-900">Location</h4>
                       <p className="text-gray-600">
-                        San Francisco, CA<br />
-                        Remote-First Company
+                        Damascus, SYR<br />
                       </p>
                     </div>
                   </div>
@@ -197,11 +196,7 @@ export default function ContactSection() {
               </CardContent>
             </Card>
             
-            <img 
-              src="https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400" 
-              alt="Business meeting and collaboration" 
-              className="rounded-xl shadow-lg mt-8 w-full"
-            />
+            
           </div>
         </div>
       </div>
