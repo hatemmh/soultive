@@ -156,7 +156,7 @@ export default function ContactSection() {
                     <Mail className="text-primary mt-1 mr-4" size={20} />
                     <div>
                       <h4 className="font-medium text-gray-900">Email</h4>
-                      <p className="text-gray-600">info@soultive.com</p>
+                      <p className="text-gray-600">info@soultive.net</p>
                     </div>
                   </div>
                   
